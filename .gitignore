@@ -35,3 +35,5 @@ build/
 # Bancos de dados locais
 *.sqlite3
 *.db
+dataset/
+
