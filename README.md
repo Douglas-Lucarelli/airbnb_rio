@@ -26,19 +26,6 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
-```
-
-## Estrutura do projeto
-
-```
-airbnb-rio/
-├── app.py                 # Código principal da aplicação Streamlit
-├── requirements.txt       # Bibliotecas necessárias
-├── README.md              # Descrição e instruções do projeto
-├── LICENSE                # Licença MIT
-├── .gitignore             # Arquivos e pastas ignorados pelo Git
-└── ...
-```
 
 ## Licença
 
