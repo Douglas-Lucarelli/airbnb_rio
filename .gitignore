@@ -29,11 +29,12 @@ build/
 *.idea/
 
 # Arquivos de backup
-*.csv~
+*.csv
 *.bak
 
 # Bancos de dados locais
 *.sqlite3
 *.db
 dataset/
+modelo.joblib
 
