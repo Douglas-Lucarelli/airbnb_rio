@@ -1,0 +1,37 @@
+# Ambiente virtual
+venv/
+.env/
+.envrc
+*.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Build e distribuição
+*.egg-info/
+dist/
+build/
+
+# IDEs e configurações locais
+*.idea/
+
+# Arquivos de backup
+*.csv~
+*.bak
+
+# Bancos de dados locais
+*.sqlite3
+*.db
